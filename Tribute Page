@@ -1,0 +1,84 @@
+# freeCodeCamp
+
+  <div class="container">
+  <div class="jumbotron khaki-background">
+     <div class="row">
+         <div class="col-xs-12">
+  <style>
+  .red-text {
+     color: red;}
+  .khaki-background {
+  background-color: khaki;
+}
+    .coral-background {
+  background-color: coral;
+}
+    .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 7px;
+    text-align: center;
+  }
+   body {
+  background-color: LightYellow;
+  }
+             h1 {
+ font-size: 40px;
+ font-family: Comic Sans MS;
+          font-weight:bold;
+}
+       h2 {
+ font-size: 25px;
+ font-family: serif;
+ }
+       img {
+  width: 100%;
+    }
+    
+</style>
+
+<h1 class="text-center">Ray Bradbury</h1>
+<h2 class="text-center"><em>American science fiction novelist, short story writer, essayist, playwright, screenwriter and poet whose works were translated in more than 40 languages and sold millions of copies around the world.</em></h2>
+<div class="thumbnail"><img class="smaller-image" src="http://cdn8.openculture.com/wp-content/uploads/2014/05/ray-bradbury-zen.jpg" alt="Ray Bradbury"></div>
+<div>
+  <h3><strong> Here's a time line of Ray Bradbury's life:</strong></h3>
+<ul>
+  <li><strong>August 22, 1920</strong> Borned in Waukegan, Illinois to Esther Bradbury a Swedish immigrant and Leonard Spaulding Bradbury a power and telephone lineman of English Descent</li>
+<li><strong>1931</strong> At age eleven, young Ray began writing his own stories</li>
+   <li><strong>1932</strong> At the age of 12 he wrote his own sequel to The Warlord of Mars</li>
+   <li><strong>1932</strong> At age twelve, began writing traditional horror stories and said he tried to imitate Edgar Allan Poe until he was eighteen</li>
+  <li><strong>1934</strong> Bradbury's first pay as a writer was at the age of fourteen, when Burns hired him to write for the Burns and Allen show</li>
+  <li><strong>1934</strong> When Bradbury was 14 the family eventually settled in Los Angeles</li>
+  <li><strong>1934</strong> When he moved to Los Angeles he attended high school and was active in the drama club</li>
+  <li><strong>January 1938</strong> First published story was "Hollerbochen's Dilemma" which appeared in the fanzine.</li>
+  <li><strong>1942</strong> Sold newspapers from high school graduation</li>
+  <li><strong>1946</strong> Bradbury's first story about the Addams family was "Homecoming" published in the Halloween issue of Mademoiselle</li>
+   <li><strong>1947</strong> His first collection, Dark Carnival, was published</li>
+  <li><strong>1947</strong> He married Maggie McClure</li>
+  <li><strong>1950</strong> The Martian Chronicles was published</li> <li><strong>1953</strong> His first science fiction book Fahrenheit 451 was published
+</li>
+  <li><strong>1954</strong> He was given the Benjamin Franklin Award</li>
+  <li><strong>1999</strong> Bradbury suffered a stoke that left him partially dependent on a wheelchair for mobility.</li>
+    <li><strong>2000</strong> He was awarded National Book Foundation Medal for Distinguished Contribution to American Letters</li>
+  <li><strong>October 2001</strong> Bradbury published all the Family stories he had written in one book with a collecting narrative</li>
+  <li><strong>2006</strong> Bradbury published the original novel remaining after the extraction, and re titled it "Farewell Summer"</li>
+  <li><strong>June 5, 2012</strong> Bradbury died in Los Angeles, California, at the age of 91, after a lengthy illness. </li>
+</ul></div>
+<div class="coral-background"> <blockquote>
+           <h4>“You don't have to burn books to destroy a culture. Just get people to stop reading them.”</h4>
+            <footer><cite>Ray Bradbury</cite></footer>
+          </blockquote></div>
+
+<p>If you have time, you should read more about this incredible human being on his  <a href="https://en.wikipedia.org/wiki/Ray_Bradbury">Wikipedia entry.</a></p></div>
+ </div>
+   </div>
+  
+<footer class="text-center">
+    <hr>
+    <p1>Written and coded by <a href="https://www.freecodecamp.com/irasht" target="_blank">Ira Shturyn</a>.</p1>
+  </footer>  </div>
+  
+  body {
+  margin-top: 60px;
+  
+}
